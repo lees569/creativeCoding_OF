@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "00081745A25B9503C3298F7E74E08E1FEF7611A3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2B558B27F1B87CDBC7920464E38C97E77C794A30" : 0,
+    "00081745A25B9503C3298F7E74E08E1FEF7611A3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4BA8D0D3-FF3A-4782-BFBC-D6DB634F2EB9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2B558B27F1B87CDBC7920464E38C97E77C794A30" : "..",
+    "00081745A25B9503C3298F7E74E08E1FEF7611A3" : "ofCollabHomework-1\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ofCollabHomework",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ofCollabHomework.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lees569\/ofCollabHomework-1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "00081745A25B9503C3298F7E74E08E1FEF7611A3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lees569\/creativeCoding_OF.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2B558B27F1B87CDBC7920464E38C97E77C794A30"
+    }
+  ]
+}
